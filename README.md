@@ -16,3 +16,12 @@
 <br>
 
 ✨ - **__I learn__**: `Python`, `Backend`, `Pyrogram`, `Aiogram`, `FrontEnd` and `C++`
+
+<br>
+<br>
+
+🔌 <h2>Если вам не турдно посетите мой телеграм в <a href="https://t.me/yumaka">@Yumaka</a>, а также посетить мой <a href="https://yumakalukasz.github.io/yumaka-bio.github.io">Веб-Сайт</a></h2>
+
+<br>
+
+🌧️ <h3>А также моя <a href="https://t.me/yumakabio"Биография</a> в телеграме</h3>

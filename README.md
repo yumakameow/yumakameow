@@ -1,6 +1,7 @@
+#  `🌧️ Hello! I am a Yumaka 🌧️`
+<br>
 <img src="https://ru.files.fm/u/nmhadjzcq" alt="">
 
-#  `🌧️ Hello! I am a Yumaka 🌧️`
 
 🍇 - **__I am a beginner__** `python` and `backend` developer
 

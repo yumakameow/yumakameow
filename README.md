@@ -7,7 +7,7 @@
 
 <br>
 
-🌒 - **__Information for me__**. 17 y.o, Junior Developer, __Vladislav Lukasz__, Country `Russia 🇷🇺`
+🌒 - **__Information for me__**. 0x10 age, Junior Developer, Vladislav Lukasz, Country `Russia 🇷🇺`
 
 <br>
 

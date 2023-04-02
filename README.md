@@ -20,7 +20,7 @@
 <br>
 <br>
 
-🔌 <h2>Если вам не турдно посетите мой телеграм в <a href="https://t.me/yumaka">@Yumaka</a>, а также посетить мой <a href="https://yumakalukasz.github.io/yumaka-bio.github.io">Веб-Сайт</a></h2>
+🔌 <h2>Если вам не турдно посетите мой телеграм в <a href="https://t.me/yumaka">@Yumaka</a>, а также посетить мой <a href="https://yumakameow.github.io/yumaka-bio.github.io">Веб-Сайт</a></h2>
 
 <br>
 
